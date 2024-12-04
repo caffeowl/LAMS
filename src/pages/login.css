@@ -1,6 +1,9 @@
 #label{
-    margin-right: 340px;
+    margin-right: 40px;
+    color: black;
 }
 #label_pass{
-    margin-right: 425px;
+    margin: 5px;
+    margin-left: -12.5%;
+    color: black;
 }
